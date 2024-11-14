@@ -1,0 +1,7 @@
+Austėja,28,120,30
+Sausainiai,Imbieriniai Sausainiai,1.0,11.0,minkšti
+Sausainiai,Trapūs Sausainiai,2.0,15.0,trapūs
+Saldainiai,Vaisiniai Saldainiai,2.0,20.0,vaisiniai
+Saldainiai,Truffe,1.0,25.0,šokoladiniai
+Šokoladai,Dark Chocolate,1.5,18.0,70
+Šokoladai,Milk Chocolate,1.0,20.0,50

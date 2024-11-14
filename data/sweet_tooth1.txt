@@ -1,0 +1,7 @@
+Jonas,25,100,50
+Sausainiai,Medaus Sausainiai,1.5,10.0,trapūs
+Sausainiai,Šokoladiniai Sausainiai,2.0,12.0,minkšti
+Saldainiai,Karvutė,2.0,15.0,karameliniai
+Saldainiai,Vaisiniai Saldainiai,1.0,20.0,vaisiniai
+Šokoladai,Milk Chocolate,1.0,20.0,50
+Šokoladai,Dark Chocolate,1.5,18.0,70

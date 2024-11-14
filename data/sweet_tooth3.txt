@@ -1,0 +1,8 @@
+Ona,22,200,0
+Sausainiai,Aviečių Sausainiai,1.2,8.0,trapūs
+Sausainiai,Vaisiniai Sausainiai,1.5,9.0,trapūs
+Saldainiai,Toffee,2.5,14.0,karameliniai
+Saldainiai,Šokoladiniai Saldainiai,1.0,21.0,šokoladiniai
+Šokoladai,White Chocolate,1.0,22.0,30
+Šokoladai,Dark Chocolate,1.5,18.0,70
+Šokoladai,Milk Chocolate,2.0,20.0,50

@@ -1,0 +1,7 @@
+Petras,30,150,75
+Sausainiai,Aviečių Sausainiai,1.2,8.0,trapūs
+Sausainiai,Imbieriniai Sausainiai,1.0,11.0,minkšti
+Saldainiai,Truffe,1.0,25.0,šokoladiniai
+Saldainiai,Mėtų Saldainiai,1.5,12.0,mėtų
+Šokoladai,White Chocolate,1.0,22.0,30
+Šokoladai,Dark Chocolate,1.5,18.0,85
